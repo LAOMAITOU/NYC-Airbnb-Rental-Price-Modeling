@@ -1,1 +1,1 @@
-# NYC-Airbnb-Rental-Price-Modeling
+# NYC-Airbnb-Rent

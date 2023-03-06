@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+statistics
+ipykernel
+scipy
+plotly
+folium
+geopy
+geopandas
